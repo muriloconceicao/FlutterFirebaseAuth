@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "705092157921",
+    "firebase_url": "https://thegoodjson.firebaseio.com",
+    "project_id": "thegoodjson",
+    "storage_bucket": "thegoodjson.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705092157921:android:a6f0a7f6dd4e2b3a72d2a0",
+        "android_client_info": {
+          "package_name": "com.muriloconceicao.firebase_integration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705092157921-1l6qdr0gl0ad97v0evi9ih0j7t8sufal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNFdsNLQHv3pmkfZKwaIrJI0deBg1TTD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705092157921-1l6qdr0gl0ad97v0evi9ih0j7t8sufal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
